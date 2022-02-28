@@ -669,7 +669,12 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #575757;
+}
+
+.titre_icon{
+    color: black;
+    margin-bottom: 30px;
 }
 
 .container {
