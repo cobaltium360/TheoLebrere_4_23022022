@@ -7,6 +7,24 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.new_div_h2{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.new_h2{
+    color: #625f69;
+}
+.a_page{
+    margin: 2rem;
+    color: black!important;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -674,10 +692,6 @@ a {
     font-weight: lighter;
     max-width: 520px;
     margin: auto auto auto auto;
-}
-
-p {
-    font-size: 11px;
 }
 
 .tight-width-whitespace {
